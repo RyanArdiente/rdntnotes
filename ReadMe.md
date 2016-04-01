@@ -17,7 +17,7 @@ This project is a Java Swing application that was created to practice utilizing 
 
 <h4>Features List</h4>
 <ul>
-<li>Simple Ui</li>
+<li>Simple UI</li>
 <li>Text Area </li>
 <li>Save and Delete Files</li>
 <li>Multiple Tabs</li>
